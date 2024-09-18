@@ -781,3 +781,29 @@ animation-name: fadeInDown;
         }
     }
 }
+
+.book{
+    &__form{
+        h4{
+            @extend %text-center, %mb-30;
+        }
+        form{
+            input{
+                @extend %bg-white;
+                color: #555555;
+            }
+            ::placeholder{
+                color: #555555;
+            }
+            select{
+                @extend %bg-white;
+                color: #555555;
+            }
+            textarea{
+                @extend %bg-white; 
+                color: #555555;
+            }            
+        }
+    }
+
+}

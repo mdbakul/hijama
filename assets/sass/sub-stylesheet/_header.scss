@@ -570,12 +570,10 @@ nav{
         @extend %flex;
         @extend %p-rel;
         z-index: 9999;
-
         .carticon {
             z-index: 1;
             a {
                 @extend %text-none;
-
                 i {
                     @extend %text-color;
                     @include font-size(20px);

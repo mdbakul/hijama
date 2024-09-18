@@ -31,9 +31,7 @@ if($('.tp-main-menu-content').length && $('.tp-main-menu-mobile').length){
 	let navContent = document.querySelector(".tp-main-menu-content").outerHTML;
 	let mobileNavContainer = document.querySelector(".tp-main-menu-mobile");
 	mobileNavContainer.innerHTML = navContent;
-
 	let arrow = $(".tp-main-menu-mobile .menu-item-has-children > a");
-	
 	arrow.each(function () {
 		let self = $(this);
 		let arrowBtn = document.createElement("BUTTON");
@@ -338,7 +336,6 @@ var swiper = new Swiper(".partner__slider", {
 	},
 	autoplay: {
 		delay: 5000,
-		disableOnInteraction: false,
 		disableOnInteraction: false,
         reverseDirection: true,
 	},

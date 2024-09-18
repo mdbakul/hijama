@@ -131,7 +131,7 @@ textarea {
   transition: all 0.5s ease;
 }
 
-.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .pageheader__content ul li a:after, body,
+.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .book__form form textarea, .book__form form select, .book__form form input, .pageheader__content ul li a:after, body,
 button,
 input,
 select,
@@ -452,7 +452,7 @@ nav > ul li > ul li a, nav > ul li a, .newslatter__form form button {
   color: #fff !important;
 }
 
-.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .pageheader__content ul li a:after, body,
+.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .book__form form textarea, .book__form form select, .book__form form input, .pageheader__content ul li a:after, body,
 button,
 input,
 select,
@@ -469,7 +469,7 @@ textarea {
   background: #000000;
 }
 
-.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .pageheader__content ul li a:after, body,
+.shoppagenav .nav-tab .nav-link.active, .shoppage__item .thum .shoppagelink a, .testmonial .thum, .request__form form textarea, .request__form form .allinput input, .accordion-item--itme2Serpage .accordion-button:not(.collapsed) .plus-icon, .accordion-item--itme2Serpage .accordion-button .plus-icon, .accordion-item .accordion-button:not(.collapsed) .plus-icon, .accordion-item .accordion-button .plus-icon, .blogsingle__leavecoments--addreview .formarea form .alliput textarea, .feedback__inner .top .thumb, .projectfilter__item .inneritem .upitem a, .footer__photo .allphoto .item .inneritem .upitem a:hover, .footer__about .text .allsocialicon ul li a:hover, .book__bookingform > form .item1.item2 select, .book__bookingform > form .item1 input, .header__cart .cart-details, .book__form form textarea, .book__form form select, .book__form form input, .pageheader__content ul li a:after, body,
 button,
 input,
 select,
@@ -506,7 +506,7 @@ textarea {
   background: #73B611 !important;
 }
 
-.pricing3__inner .content .price3btn, .pricing3__inner .thumb, .contactus__inner, .cartpage__paymentitem .content form .checkout a, .cartpage__paymentitem .content form .update button, .cartpage__body ul li .countadd .cart-plus-minus input.cart-plus-minus-box, .cartpage__body ul li, .cartpage__header ul li, .cartdesk__itemheading, .shopdetails__content .countadd a, .shopdetails__content .countadd .cart-plus-minus .qtybutton, .shopdetails__content .countadd .cart-plus-minus input.cart-plus-minus-box, .shopdetails__innerthumb, .shoppage__item .content, .shoppage__item .thum .shoppagelink a, .testmonial .thum .quode, .testmonial__header, .skill__item .skillbar-container, .request__header--headercontactpage, .request__form--contactpage p, .request__form--contactpage form, .process__inner, .process__header, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__content .quode .text h6, .blogsingle__content .quode .icon, .feedback__blood-donatebtn, .teamprofile__personalcontent .data > ul li .allicon ul li a, .teamsingle__btn, .team__inner .text, .team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .projectfilter__btn a, .projectfilter__btn, .projectfilter__item .inneritem .upitem a, .project__btn, .project__item .content .content-inner, .servicesingle__sidebar .brouchore .pdf-icon, .service2__item .text, .service2__item .thumb .icon, .service2__header p, .service2__header, .service__inner .thumb, .counter__inner .thumb, .counter__inner, .feature__inner, .footer__bottom, .footer__photo .allphoto .item .inneritem .upitem a, .footer__about .text .allsocialicon ul li a, .book__bookingform h3, .tpoffcanvas__social .social-icon a, .header__cart .cart-details .item .right .text span, .header__cart .cart-details .close i, .header__cart .carticon:after, .header__topcontent .right ul li a, nav > ul li > ul li::after, .pagi .pagi-inner ul li a, .faqcontent__header, .mission__inner .text, .pageheader__content, .newslatter .text h3, .partner__inner, .partner__item, .plybtn a, .scrollToTop, .section__header--header2 {
+.pricing3__inner .content .price3btn, .pricing3__inner .thumb, .contactus__inner, .cartpage__paymentitem .content form .checkout a, .cartpage__paymentitem .content form .update button, .cartpage__body ul li .countadd .cart-plus-minus input.cart-plus-minus-box, .cartpage__body ul li, .cartpage__header ul li, .cartdesk__itemheading, .shopdetails__content .countadd a, .shopdetails__content .countadd .cart-plus-minus .qtybutton, .shopdetails__content .countadd .cart-plus-minus input.cart-plus-minus-box, .shopdetails__innerthumb, .shoppage__item .content, .shoppage__item .thum .shoppagelink a, .testmonial .thum .quode, .testmonial__header, .skill__item .skillbar-container, .request__header--headercontactpage, .request__form--contactpage p, .request__form--contactpage form, .process__inner, .process__header, .blogsingle__content .tagbutton-icon .tagicon ul li a, .blogsingle__content .quode .text h6, .blogsingle__content .quode .icon, .feedback__blood-donatebtn, .teamprofile__personalcontent .data > ul li .allicon ul li a, .teamsingle__btn, .team__inner .text, .team__inner .thumb .allicon ul li a, .team__inner .thumb .allicon .fixedicon i, .projectfilter__btn a, .projectfilter__btn, .projectfilter__item .inneritem .upitem a, .project__btn, .project__item .content .content-inner, .servicesingle__sidebar .brouchore .pdf-icon, .service2__item .text, .service2__item .thumb .icon, .service2__header p, .service2__header, .service__inner .thumb, .counter__inner .thumb, .counter__inner, .feature__inner, .footer__bottom, .footer__photo .allphoto .item .inneritem .upitem a, .footer__about .text .allsocialicon ul li a, .book__bookingform h3, .tpoffcanvas__social .social-icon a, .header__cart .cart-details .item .right .text span, .header__cart .cart-details .close i, .header__cart .carticon:after, .header__topcontent .right ul li a, nav > ul li > ul li::after, .book__form h4, .pagi .pagi-inner ul li a, .faqcontent__header, .mission__inner .text, .pageheader__content, .newslatter .text h3, .partner__inner, .partner__item, .plybtn a, .scrollToTop, .section__header--header2 {
   text-align: center;
 }
 
@@ -637,7 +637,7 @@ a h6 {
   margin-bottom: 5px;
 }
 
-.cartdesk__item, .blogsingle__leavecoments h5, .blogsingle__comments h5, .blogsingle__author h5, .about__content p, .newslatter .text h3 {
+.cartdesk__item, .blogsingle__leavecoments h5, .blogsingle__comments h5, .blogsingle__author h5, .about__content p, .book__form h4, .newslatter .text h3 {
   margin-bottom: 30px;
 }
 
@@ -1836,6 +1836,19 @@ input, textarea, select {
   background: none;
   width: 5%;
 }
+.book__form form input {
+  color: #555555;
+}
+.book__form form ::placeholder {
+  color: #555555;
+}
+.book__form form select {
+  color: #555555;
+}
+.book__form form textarea {
+  color: #555555;
+}
+
 @media (max-width: 1199px) {
   nav > ul {
     flex-direction: column;
